@@ -1,0 +1,12 @@
+{
+  "require": {
+    "aura/di": "^2.2.2",
+    "aura/router": "^2.2.2",
+    "aura/web": "^2.0.3",
+    "aura/accept": "^2.2.2",
+    "aura/dispatcher": "^2.0.3"
+  },
+  "autoload": {
+    "psr-4": {"MyProject\\": "src/MyProject/"}
+  }
+}
